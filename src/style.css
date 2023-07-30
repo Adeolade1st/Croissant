@@ -3,9 +3,12 @@ h1 {
     color: violet
     
 }
-.contact-link{
-    display: flex;
+
+a{
+    color: black;
 }
+
+
 
 html{
     background-color: blue;
